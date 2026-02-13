@@ -20,9 +20,6 @@ problem-page.png
 bookmark-button.png  
 popup-ui.png  
 
-Use like:
-![Problem Page](screenshots/problem-page.png)  
-![Popup UI](screenshots/popup-ui.png)
 
 ## 🛠️ Tech Stack
 - JavaScript
